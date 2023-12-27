@@ -17,4 +17,7 @@ git branch -d <branch name> (delete that branch)
 
 git diff <brachname>(to know the diffenrce in contentbetween two branches)
 
-git pull origin main (this is used to merge the content in  feature1 braqnch with main)
+there is two way to merge
+
+1.git pull origin main (this is used to merge the content in  feature1 braqnch with main)
+2. git merge <branch name(if we are currently in feature branch then we have to write here main.to bring change in both branch we have to do the same in both branch)>
