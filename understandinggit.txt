@@ -27,3 +27,5 @@ here we may get merge conflit that is for a particular same line of code both th
 git reset --hard <498b847b7923ef3a968ba887a9b40b294ec73b4a> (this is used to go back to particular commit the long code is particalr hash for each commit we can get this using git log)
 
 git log (we get details about all the previous commit and the hashvalue of each commit like this commit e23f68539cd29e711119a70e7b996217de51c975) 
+
+fork (this is used to copy some other person git hub repository and make a copy of that repository in out github account and we can make changes in it and it will change only in our repository for changes to occur in that person repository we will create a pull request and the person accept our changes then our code will get adedd there. fork option is presnt in the github page when we open some others repository)
