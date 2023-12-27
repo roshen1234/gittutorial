@@ -1,7 +1,7 @@
 git init (to setup github in vs code )
 git remote add orgin <link> (to connect our folder that is this folder with github created repository)
 git remote -v (to verify remote)
-git branch (to check differnt braches present)(branch is,mainly there is one final code differnt branch take this main code and edit it and then push it to main.the final resilt is code presnt in main)
+git branch (to check differnt braches present)(branch is,mainly there is one final code differnt branch take this main code and edit it and then push it to main.the final resilt is code presnt in main)(so in this way we can create differnt braches so that nobody has to wait for other person to complete and at last can merge it )
 
 git branch -M main (to rename branch)
 
@@ -10,3 +10,7 @@ git commit -m "" (this is use to commit in stage file )
 git push -u orgin main (this is used to push the modified data to main branch)
 
 git status (to know status)
+
+git checkout -b <new branch name> (create a new branch)
+git checkout <branch name>  (go to that branch)   
+git -d <branch name> (delete that branch)
