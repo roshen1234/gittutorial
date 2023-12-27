@@ -13,4 +13,4 @@ git status (to know status)
 
 git checkout -b <new branch name> (create a new branch)
 git checkout <branch name>  (go to that branch)   
-git -d <branch name> (delete that branch)
+git branch -d <branch name> (delete that branch)
