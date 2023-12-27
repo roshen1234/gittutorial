@@ -8,3 +8,5 @@ git branch -M main (to rename branch)
 git add . (this add our code to a stage file ) 
 git commit -m "" (this is use to commit in stage file )
 git push -u orgin main (this is used to push the modified data to main branch)
+
+git status (to know status)
