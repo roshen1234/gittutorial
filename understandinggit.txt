@@ -14,4 +14,7 @@ git status (to know status)
 git checkout -b <new branch name> (create a new branch)
 git checkout <branch name>  (go to that branch)   
 git -d <branch name> (delete that branch)
-git diff <branchname> (when we create differnt branches to check the differnce between them what all extra code is written in other branch can be seen using this)
+
+git diff <brachname>(to know the diffenrce in contentbetween two branches)
+
+git pull origin main (this is used to merge the content in  feature1 braqnch with main)
